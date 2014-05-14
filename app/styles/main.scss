@@ -1,0 +1,85 @@
+// bower:scss
+// endbower
+
+body {
+    background: rgb(196, 196, 209);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+.hero-unit {
+    position: relative;
+    margin: 50px auto 0 auto;
+    width: 300px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    background-color: #eee;
+    border-radius: 6px;
+    padding: 90px;
+    padding-bottom: 45px;
+    h1 {
+        font-size: 60px;
+        line-height: 1;
+        letter-spacing: -1px;
+    }
+}
+
+.button {
+    margin: 50px auto 0 auto;
+    width: 150px;
+    height: 100px;
+    background-color: #705959;
+    border-radius: 6px;
+    color: white;
+    // text-align: center;
+}
+
+.hero-2 {
+    margin: 50px auto 0 auto;
+    width: 300px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    background-color: #eee;
+    border-radius: 6px;
+    padding: 60px;
+    h1 {
+        font-size: 60px;
+        line-height: 1;
+        letter-spacing: -1px;
+    }
+}
+
+.animate-me {
+    position: absolute;
+    top: 10px;
+    left:10px;
+    width: 90px;
+    height: 90px;
+    background-color: rgb(73, 73, 150);
+
+}
+
+.unit-3 {
+    p {
+        display: none;
+        
+    }
+}
+
+// .button-2 {
+//     margin: 50px auto 0 auto;
+//     width: 150px;
+//     height: 100px;
+//     background-color: #eee;
+//     border-radius: 6px;
+//     // text-align: center;
+//         p {
+//             margin: auto;
+//         }
+// }
+
+
+
+
