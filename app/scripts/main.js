@@ -1,7 +1,7 @@
 "use strict";
 
 $('.button-1').click(function() {
-	$('.hero-unit').hide().fadeIn(1000);
+	$('.unit-1').hide().fadeIn(1000);
 });
 
 $('.button-2').click(function() {
@@ -9,6 +9,10 @@ $('.button-2').click(function() {
 });
 
 $('.button-3').click(function() {
-	$('.unit-3').children('p').toggle();
+	$('.toggle').toggle();
+});
+
+('.button-4').click(function() {
+	$('.')();
 });
 
