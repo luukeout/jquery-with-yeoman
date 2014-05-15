@@ -12,7 +12,12 @@ $('.button-3').click(function() {
 	$('.toggle').toggle();
 });
 
-('.button-4').click(function() {
-	$('.')();
+$('.button-4').click(function() {
+	$( ".findMe-2" ).children().css( "color", "blue" );
+	
 });
 
+$('.button-5').click(function() {
+	$( '.replaceMe' ).replaceWith("<h1>New Div</h1>");
+	
+});
